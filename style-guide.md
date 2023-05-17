@@ -29,4 +29,4 @@ White: hsl(0, 0%, 100%)
 ### Font
 
 - Family: [League Spartan](https://fonts.google.com/specimen/League+Spartan)
-- Weights: 400, 500, 700
+- Weights: regular 400, medium 500, bold 700
